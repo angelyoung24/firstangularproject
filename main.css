@@ -1,0 +1,26 @@
+* {
+background-color:salmon;
+}
+
+
+body {
+    height:100%;
+    display: grid;
+    
+}
+
+h1, h3, p, span {
+    text-align: center;
+    color:black;
+}
+
+input{
+    margin: auto;
+    border-bottom: 1px solid black;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+    text-align: center;
+}
+
+
